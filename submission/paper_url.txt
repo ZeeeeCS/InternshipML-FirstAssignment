@@ -1,2 +1,2 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
-https://colab.research.google.com/github/flyrank-bih/flyrank-ml-internship-starter/blob/main/notebooks/01_first_look_and_discovery.ipynb?authuser=1#scrollTo=r1ng8aKj7awB
+
